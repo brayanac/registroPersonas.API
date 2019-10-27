@@ -1150,19 +1150,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\FatRush\\.nuget\\packages\\": {}
+    "C:\\Users\\ramon\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\vanguardia\\Tarea2\\registroPersonas.API\\registroPersonas.API.csproj",
+      "projectUniqueName": "C:\\Users\\ramon\\Desktop\\Togo\\registroPersonas.API\\registroPersonas.API.csproj",
       "projectName": "registroPersonas.API",
-      "projectPath": "C:\\vanguardia\\Tarea2\\registroPersonas.API\\registroPersonas.API.csproj",
-      "packagesPath": "C:\\Users\\FatRush\\.nuget\\packages\\",
-      "outputPath": "C:\\vanguardia\\Tarea2\\registroPersonas.API\\obj\\",
+      "projectPath": "C:\\Users\\ramon\\Desktop\\Togo\\registroPersonas.API\\registroPersonas.API.csproj",
+      "packagesPath": "C:\\Users\\ramon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ramon\\Desktop\\Togo\\registroPersonas.API\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\FatRush\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ramon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

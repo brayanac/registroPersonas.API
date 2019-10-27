@@ -1,8 +1,9 @@
-
+namespace registroPersonas.API.Data{
+   
     using Microsoft.EntityFrameworkCore;
     using registroPersonas.API.Models;
     
-namespace registroPersonas.API.Data{
+
     public class DataContext: DbContext 
     {
         public DbSet <Persona> Personas{get; set;}
